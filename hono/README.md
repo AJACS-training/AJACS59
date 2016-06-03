@@ -70,7 +70,7 @@ AJACS前橋@群馬大学 医学部 情報処理演習室Ａ（昭和キャンパ
 ### [統合TV](http://togotv.dbcls.jp/ja/)
 - 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
     - http://togotv.dbcls.jp/ja/
-    - ![統合TVトップページ](http://i.gyazo.com/5f6f41bb220c425a3c7e6d7faac5c840.png)
+    - ![統合TVトップページ](https://i.gyazo.com/dddde578caafeb260abc939bab68adfb.png)
 
     - YouTube版もあります　http://www.youtube.com/user/togotv/
     - ![統合TV YouTube支店](http://i.gyazo.com/1dce80b0a05a7de372415fa0b42a079c.png)
