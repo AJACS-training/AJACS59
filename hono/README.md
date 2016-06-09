@@ -222,6 +222,7 @@ AJACS前橋@群馬大学 医学部 情報処理演習室Ａ（昭和キャンパ
 ### [DAVID: The Database for Annotation, Visualization and Integrated Discovery](http://david.abcc.ncifcrf.gov/)
 - マイクロアレイデータの生物学的な解釈
 - マイクロアレイ実験の一般的な目的は、実験条件によって得られた数十～数千の遺伝子群の発現が生物学的にどういう意味を持つかを考えることです。
+- 2010年以来データ更新が止まっていましたが､最近､アップデートされました｡ [DAVID 6.8 (current beta release) May. 2016](https://david.ncifcrf.gov/content.jsp?file=release.html)
 
 - ![Gyazo](http://i.gyazo.com/52cb4c40b1313a52f8ded6923bdd8ef0.png)
 
