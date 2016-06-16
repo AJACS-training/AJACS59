@@ -52,18 +52,18 @@ AJACS前橋@群馬大学 医学部 情報処理演習室Ａ（昭和キャンパ
 
 |統合TVを知っていますか?|人数|割合|
 |:--|--:|:--:|
-|知らない|29 名|63 %|
-|聞いたことがある|10 名|22 %|
-|知っている|4 名|9 %|
-|使ったことがある|2 名|4 %|
-|使っている|1 名|2 %|
+|知らない|34 名|63 %|
+|聞いたことがある|11 名|20 %|
+|知っている|4 名|7 %|
+|使ったことがある|3 名|5 %|
+|使っている|3 名|5 %|
 ---
 |自分で実験して得た、数十〜数千の遺伝子からなる<br>「遺伝子リスト」(例: 発現差のあった遺伝子など) を持っていますか?|人数|割合|
 |:--|--:|:--:|
-|これから実験をする・したい|15 名|33 %|
-|公共データを活用する・したい|16 名|35 %|
-|既に持っている|13 名|28 %|
-|大規模発現解析の予定はない|2 名|4 %|
+|これから実験をする・したい|16 名|29 %|
+|公共データを活用する・したい|18 名|33 %|
+|既に持っている|17 名|31 %|
+|大規模発現解析の予定はない|4 名|7 %|
 
 ---
 
@@ -232,7 +232,7 @@ AJACS前橋@群馬大学 医学部 情報処理演習室Ａ（昭和キャンパ
 #### マイクロアレイデータの準備
 - サンプルデータとして、[NCBI GEO](http://www.ncbi.nlm.nih.gov/geo/)から取得した公共の遺伝子発現データを用います。このデータは、ある実験の前後の2群間で有意に発現減少した遺伝子群のリストです。  
 
-     → [マル秘遺伝子リスト](https://raw.githubusercontent.com/AJACS-training/AJACS58/master/hono/secret_list.txt)  （右クリックして「新しいタブで開く」もしくは「名前を付けてリンク先を保存」してください。）
+     → [マル秘遺伝子リスト](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/hono/secret_list.txt)  （右クリックして「新しいタブで開く」もしくは「名前を付けてリンク先を保存」してください。）
 
 - このデータは、どのような実験から得られたデータなのか、どのように解釈できるのかをDAVIDを使って考察してみましょう！  
 
@@ -277,7 +277,7 @@ AJACS前橋@群馬大学 医学部 情報処理演習室Ａ（昭和キャンパ
 
 ---
 
-[答え合わせ](https://github.com/AJACS-training/AJACS58/blob/master/hono/answer.md)
+[答え合わせ](https://github.com/AJACS-training/AJACS59/blob/master/hono/answer.md)
 
 ---
 
@@ -287,13 +287,16 @@ AJACS前橋@群馬大学 医学部 情報処理演習室Ａ（昭和キャンパ
 - 例題は、[GSE28619](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28619) をつかいます。
   - 健常者 vs アルコール性肝炎患者 の2群比較です。
   - 多重比較法（Benjamini & Hochberg）を指定して、有意水準1％未満かつ2倍以上発現差のあった遺伝子群のリストをあらかじめ用意しました。
-     - 「健常者＞AH患者_遺伝子リスト」[GEO2R_Ctrl.txt](https://raw.githubusercontent.com/AJACS-training/AJACS58/master/hono/GEO2R_Ctrl.txt)
-     - 「AH患者＞健常者_遺伝子リスト」[GEO2R_AH.txt](https://raw.githubusercontent.com/AJACS-training/AJACS58/master/hono/GEO2R_AH.txt)
+     - 「健常者＞AH患者_遺伝子リスト」[GEO2R_Ctrl.txt](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/hono/GEO2R_Ctrl.txt)
+     - 「AH患者＞健常者_遺伝子リスト」[GEO2R_AH.txt](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/hono/GEO2R_AH.txt)
      - (この遺伝子リストの作り方は、[AJACS御茶ノ水の回](http://doi.org/10.7875/ajacs.2015.007) で解説しています。)
 - DAVID 以外のツールを使ってみる
   - DAVIDでは主にGeneOntologyを見ていましたが、医学・薬学分野に特化した情報を解析対象にした[GeneSetDB](http://genesetdb.auckland.ac.nz/haeremai.html) を使ってみるという手もあります。
   - 統合TVあります → [GeneSetDBで遺伝子解析とエンリッチメント解析を行う](http://doi.org/10.7875/togotv.2016.002)
-    - [2:50~ エンリッチメント解析を行う](https://www.youtube.com/watch?v=qqF19PaURsA&feature=youtu.be&t=2m50s)     
+    - [2:50~ エンリッチメント解析を行う](https://www.youtube.com/watch?v=qqF19PaURsA&feature=youtu.be&t=2m50s)   
+  - それ以外にもさまざまなエンリッチメント解析ツールが出てきています｡
+    - [GeneTrail2](https://genetrail2.bioinf.uni-sb.de/)
+    - [Metascape](http://metascape.org/gp/index.html#/main/step1)
 - 一応ひとつの答え
   - このデータを使った論文があります。
     - [Transcriptome analysis identifies TNF superfamily receptors as potential therapeutic targets in alcoholic hepatitis.](http://www.ncbi.nlm.nih.gov/pubmed/22637703)
