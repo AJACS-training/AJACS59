@@ -292,11 +292,13 @@ AJACS前橋@群馬大学 医学部 情報処理演習室Ａ（昭和キャンパ
      - (この遺伝子リストの作り方は、[AJACS御茶ノ水の回](http://doi.org/10.7875/ajacs.2015.007) で解説しています。)
 - DAVID 以外のツールを使ってみる
   - DAVIDでは主にGeneOntologyを見ていましたが、医学・薬学分野に特化した情報を解析対象にした[GeneSetDB](http://genesetdb.auckland.ac.nz/haeremai.html) を使ってみるという手もあります。
-  - 統合TVあります → [GeneSetDBで遺伝子解析とエンリッチメント解析を行う](http://doi.org/10.7875/togotv.2016.002)
+  - 統合TV あります → [GeneSetDBで遺伝子解析とエンリッチメント解析を行う](http://doi.org/10.7875/togotv.2016.002)
     - [2:50~ エンリッチメント解析を行う](https://www.youtube.com/watch?v=qqF19PaURsA&feature=youtu.be&t=2m50s)   
   - それ以外にもさまざまなエンリッチメント解析ツールが出てきています｡
     - [GeneTrail2](https://genetrail2.bioinf.uni-sb.de/)
+      - 統合TV あります → [GeneTrail2を使って、エンリッチメント解析を行う](http://togotv.dbcls.jp/ja/20160616.html)
     - [Metascape](http://metascape.org/gp/index.html#/main/step1)
+      - 統合TV 作成中
 - 一応ひとつの答え
   - このデータを使った論文があります。
     - [Transcriptome analysis identifies TNF superfamily receptors as potential therapeutic targets in alcoholic hepatitis.](http://www.ncbi.nlm.nih.gov/pubmed/22637703)
