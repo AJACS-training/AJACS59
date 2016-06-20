@@ -8,10 +8,35 @@ NGS解析の練習として、ChIP-seqを中心としたの実習を行います
 ## コース
 
 1. [ChIP-seq初心者コース](https://github.com/suimye/gunmadai/wiki/nebula_chipseq)
-	- galaxyのnebulaを利用したChIP-seq解析コースになります。NGS解析に慣れるために今回mainで行います。 
+	- galaxyのnebulaを利用したChIP-seq解析コースになります。NGS解析に慣れるために今回mainで行います。
 
 
 2. [上級者(MAC, terminalが使える, 謎解きをしたい人)コース](https://github.com/suimye/NGS_handson2015/wiki/NGS_senior)
 	- 以前のAJACSで行った初級〜中級者向けコースを実施していただきます。
 
+	![images/AJACS59_morioka_001.jpg](images/AJACS59_morioka_001.jpg)
+	---
 
+	![images/AJACS59_morioka_002.jpg](images/AJACS59_morioka_002.jpg)
+	---
+
+	![images/AJACS59_morioka_003.jpg](images/AJACS59_morioka_003.jpg)
+	---
+
+	![images/AJACS59_morioka_004.jpg](images/AJACS59_morioka_004.jpg)
+	---
+
+	![images/AJACS59_morioka_005.jpg](images/AJACS59_morioka_005.jpg)
+	---
+
+	![images/AJACS59_morioka_006.jpg](images/AJACS59_morioka_006.jpg)
+	---
+
+	![images/AJACS59_morioka_007.jpg](images/AJACS59_morioka_007.jpg)
+	---
+
+	![images/AJACS59_morioka_008.jpg](images/AJACS59_morioka_008.jpg)
+	---
+
+	![images/AJACS59_morioka_009.jpg](images/AJACS59_morioka_009.jpg)
+	---
