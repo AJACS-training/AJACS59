@@ -7,10 +7,10 @@ NGS解析の練習として、ChIP-seqを中心としたの実習を行います
 Integrative Genomics Viewer (IGV)
 
    - 手順  
-1. [IGVのwebサイト](http://www.broadinstitute.org/igv/) にアクセスし、ダウンロード・インストールします。  
-インストールには予め　名前、所属、メールアドレスの登録が必要となります。
-2. [Downloads](http://www.broadinstitute.org/software/igv/download) へ移動し､画面中程の､｢Binary Distribution｣からZipファイル(約27MB)をダウンロードします｡
-3. ダウンロードしたZipファイルを解凍し､フォルダ内の｢igv.bat｣ をダブルクリックします｡
+      1. [IGVのwebサイト](http://www.broadinstitute.org/igv/) にアクセスし、ダウンロード・インストールします。  
+          インストールには予め　名前、所属、メールアドレスの登録が必要となります。
+      2. [Downloads](http://www.broadinstitute.org/software/igv/download) へ移動し､画面中程の､｢Binary Distribution｣からZipファイル(約27MB)をダウンロードします｡
+      3. ダウンロードしたZipファイルを解凍し､フォルダ内の｢igv.bat｣ をダブルクリックします｡
 
 - [講義資料へのリンク](https://drive.google.com/folderview?id=0B4oXGzAZTVKefkw5NUJQdkYtQnZUWWRmWHgwLVd3RTNTVWVCUUtsSDZSRi12SnNqekZfZFU&usp=sharing)
 
