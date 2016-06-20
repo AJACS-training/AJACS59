@@ -6,11 +6,8 @@ NGS解析の練習として、ChIP-seqを中心としたの実習を行います
    - 名称  
 Integrative Genomics Viewer (IGV)
 
-   - 使用する講習  
-14:00-17:00　「次世代シークエンサデータ解析の基礎知識（BaseSpaceOnsite, GalaxyなどのNGS解析ツールを理解するために必要な知識）」
-
    - 手順  
-IGVのwebサイト（http://www.broadinstitute.org/igv/）にアクセスし、ダウンロード・インストールします。  
+[IGVのwebサイト](http://www.broadinstitute.org/igv/) にアクセスし、ダウンロード・インストールします。  
 インストールには予め　名前、所属、メールアドレスの登録が必要となります。
 
 - [講義資料へのリンク](https://drive.google.com/folderview?id=0B4oXGzAZTVKefkw5NUJQdkYtQnZUWWRmWHgwLVd3RTNTVWVCUUtsSDZSRi12SnNqekZfZFU&usp=sharing)
