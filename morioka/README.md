@@ -13,29 +13,29 @@ NGS解析の練習として、ChIP-seqを中心としたの実習を行います
 	- 以前のAJACSで行った初級〜中級者向けコースを実施していただきます。
 
 ## Slides
-	![images/AJACS59_morioka_001.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_001.jpg)
-	---
+![images/AJACS59_morioka_001.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_001.jpg)
+---
 
-	![images/AJACS59_morioka_002.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_002.jpg)
-	---
+![images/AJACS59_morioka_002.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_002.jpg)
+---
 
-	![images/AJACS59_morioka_003.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_003.jpg)
-	---
+![images/AJACS59_morioka_003.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_003.jpg)
+---
 
-	![images/AJACS59_morioka_004.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_004.jpg)
-	---
+![images/AJACS59_morioka_004.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_004.jpg)
+---
 
-	![images/AJACS59_morioka_005.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_005.jpg)
-	---
+![images/AJACS59_morioka_005.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_005.jpg)
+---
 
-	![images/AJACS59_morioka_006.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_006.jpg)
-	---
+![images/AJACS59_morioka_006.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_006.jpg)
+---
 
-	![images/AJACS59_morioka_007.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_007.jpg)
-	---
+![images/AJACS59_morioka_007.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_007.jpg)
+---
 
-	![images/AJACS59_morioka_008.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_008.jpg)
-	---
+![images/AJACS59_morioka_008.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_008.jpg)
+---
 
-	![images/AJACS59_morioka_009.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_009.jpg)
-	---
+![images/AJACS59_morioka_009.jpg](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/morioka/images/AJACS59_morioka_009.jpg)
+---
